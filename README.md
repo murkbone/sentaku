@@ -1,8 +1,10 @@
 # ![scrinlogo](https://user-images.githubusercontent.com/96433729/168858930-c1cae903-a5c7-4e4a-b473-3b7475fcafa9.png)
 
-** A text-based singleplayer puzzle game **
-** Compatible with Windows 7, 10 & 11 **
-** Created by ritz (@enfierjp) **
+**A text-based singleplayer puzzle game**
+
+**Compatible with Windows 7, 10 & 11**
+
+**Created by ritz (@enfierjp)**
 
 `Release Date: TBA`
 
